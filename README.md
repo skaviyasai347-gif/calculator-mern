@@ -38,19 +38,6 @@ A modern, full-stack calculator application built using the **MERN stack (MongoD
 ## 📁 Project Structure
 
 ```
-mern-calculator/
-│
-├── client/              # React frontend
-│   ├── src/
-│   ├── public/
-│
-├── server/              # Node + Express backend
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│
-├── package.json
-└── README.md
 ```
 
 ---
