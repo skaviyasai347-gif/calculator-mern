@@ -35,12 +35,6 @@ A modern, full-stack calculator application built using the **MERN stack (MongoD
 
 ---
 
-## 📁 Project Structure
-
-```
-```
-
----
 
 ## ⚙️ Installation & Setup
 
